@@ -1,4 +1,4 @@
-# GSRP_privac
+# GSRP_privacy
 
 
 Privacy soon.
